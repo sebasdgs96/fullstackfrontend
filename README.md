@@ -6,7 +6,7 @@
 
 
 <h2>Link pagina Web</h2>
-<a href="https://github.com/david91godoy/frontend-taller-9.git"> Link pagina Web</a>   
+<a href="https://github.com/sebasdgs96/fullstackfrontend.git"> Link pagina Web</a>    
 
 <h2>Punto 1-3: HTML</h2>
 <img src="./images/punto1-3.png" alt="punto 1-3">    
