@@ -1,0 +1,31 @@
+#flexbox-container{
+    display: flex;
+    padding: 3%;
+    flex-direction: column;
+    align-items: center;
+    font-size: 200%;
+}
+
+#texto1{
+    color: green;
+}
+
+#texto2{
+    color: red;
+}
+
+#texto3{
+    text-decoration: underline overline;
+}
+
+#texto4{
+    font-size: 200%;
+}
+
+#texto5{
+    color: blue;
+}
+
+#texto6{
+    color: red;
+}

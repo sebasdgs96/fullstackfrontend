@@ -1,0 +1,16 @@
+#flexbox-container{
+    display: flex;
+    padding: 3%;
+    flex-direction: column;
+    align-items: center;
+}
+
+#soy-azul{
+    color: blue;
+    font-size: 400%
+}
+
+#soy-rojo{
+    color:red;
+    font-size: 400%
+}

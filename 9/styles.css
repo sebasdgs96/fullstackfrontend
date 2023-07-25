@@ -1,0 +1,56 @@
+.mainWeb{
+    display: grid;
+    grid-template-rows: 50px 50px 50px 70px;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+    "EdadGrid EdadGrid PesoGrid PesoGrid"
+    "fila11Grid fila11Grid fila12Grid fila12Grid"
+    "fila21Grid fila21Grid fila22Grid fila22Grid"
+    "fila3Grid fila3Grid fila3Grid fila3Grid";
+    background-color: yellow;
+    border-style: dashed;
+}
+
+.container{
+    text-align: center;
+}
+
+.EdadClass{
+    grid-area: EdadGrid;
+}
+
+.PesoClass{
+    grid-area: PesoGrid;
+}
+
+.fila11Class{
+    grid-area: fila11Grid;
+    border-style:dotted;
+}
+.fila12Class{
+    grid-area: fila12Grid;
+    border-style:dotted;
+}
+
+.fila21Class{
+    grid-area: fila21Grid;
+    border-style:dotted;
+}
+
+.fila22Class{
+    grid-area: fila22Grid;
+    border-style:dotted;
+}
+
+.fila3Class{
+    grid-area: fila3Grid;
+    border-style:dotted;
+}
+
+#texto1{
+color: red;
+}
+
+#texto1{
+    color: red;
+    }

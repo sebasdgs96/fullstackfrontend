@@ -1,0 +1,17 @@
+#flexbox-container{
+    display: flex;
+    padding: 3%;
+    flex-direction: column;
+    align-items: center;
+    font-size: 200%;
+}
+
+
+#texto1{
+    color: yellow;
+}
+
+#texto2{
+    color:blueviolet;
+}
+
